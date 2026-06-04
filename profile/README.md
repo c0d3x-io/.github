@@ -1,10 +1,5 @@
 # c0d3x.io
 
-> Open source security tooling for AI-native systems.  
-> Built by practitioners, for practitioners.
-
----
-
 ## What We're About
 
 The AI threat surface is moving faster than the tooling.  
@@ -14,7 +9,7 @@ Every project here is built and battle-tested in real environments.
 No theoretical frameworks. No vendor marketing dressed as research.  
 If a tool doesn't work, we say so.
 
----
+
 
 ## Projects
 
@@ -22,7 +17,7 @@ If a tool doesn't work, we say so.
 |---|---|---|
 | nil | Nil| Nil |
 
----
+
 
 ## Research & Findings
 
@@ -31,7 +26,7 @@ Technical findings and security research published at
 
 Latest: *I built a red team agent to test Google's Model Armor — here's what it actually catches*
 
----
+
 
 ## How We Work
 
@@ -40,7 +35,7 @@ Latest: *I built a red team agent to test Google's Model Armor — here's what i
 - Every release includes documented methodology, not just code
 - Security signal matters more than star counts
 
----
+
 
 ## Standards & Frameworks
 
@@ -51,7 +46,7 @@ Tooling developed with reference to:
 - MITRE ATLAS
 - ISO 42001 (AI Management Systems)
 
----
+
 
 ## Get Involved
 
